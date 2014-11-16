@@ -1,0 +1,45 @@
+!SESSION 2011-01-24 09:55:02.442 -----------------------------------------------
+eclipse.buildId=M20100909-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.platform.ide
+Command-line arguments:  -product org.eclipse.platform.ide -data C:\thesis\Framework\PGAF2 -dev file:C:/eclipseworkspace/.metadata/.plugins/org.eclipse.pde.core/PGAF2Plug/dev.properties -os win32 -ws win32 -arch x86_64 -consoleLog
+
+!ENTRY org.eclipse.ui 4 4 2011-01-24 09:55:15.434
+!MESSAGE Plug-in 'PGAF2Plug' contributed an invalid Menu Extension (Path: 'Genetic' is invalid): edu.ccil.ec.plug.actions.CheatSheetWorkbenchAction
+
+!ENTRY org.eclipse.ui.cheatsheets 2 1001 2011-01-24 09:55:27.270
+!MESSAGE Unknown element 'onCompletion' specified for element 'intro'.
+!SESSION 2011-01-24 09:57:44.610 -----------------------------------------------
+eclipse.buildId=M20100909-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.platform.ide
+Command-line arguments:  -product org.eclipse.platform.ide -data C:\thesis\Framework\PGAF2 -dev file:C:/eclipseworkspace/.metadata/.plugins/org.eclipse.pde.core/PGAF2Plug/dev.properties -os win32 -ws win32 -arch x86_64 -consoleLog
+
+!ENTRY org.eclipse.ui.cheatsheets 2 1001 2011-01-24 09:57:48.851
+!MESSAGE Unknown element 'onCompletion' specified for element 'intro'.
+
+!ENTRY org.eclipse.ui 4 4 2011-01-24 09:57:50.848
+!MESSAGE Plug-in 'PGAF2Plug' contributed an invalid Menu Extension (Path: 'Genetic' is invalid): edu.ccil.ec.plug.actions.CheatSheetWorkbenchAction
+!SESSION 2011-01-24 09:59:51.700 -----------------------------------------------
+eclipse.buildId=M20100909-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.platform.ide
+Command-line arguments:  -product org.eclipse.platform.ide -data C:\thesis\Framework\PGAF2 -dev file:C:/eclipseworkspace/.metadata/.plugins/org.eclipse.pde.core/PGAF2Plug/dev.properties -os win32 -ws win32 -arch x86_64 -consoleLog
+
+!ENTRY org.eclipse.ui.cheatsheets 2 1001 2011-01-24 09:59:55.987
+!MESSAGE Unknown element 'onCompletion' specified for element 'intro'.
+
+!ENTRY org.eclipse.ui 4 4 2011-01-24 09:59:58.109
+!MESSAGE Plug-in 'PGAF2Plug' contributed an invalid Menu Extension (Path: 'Genetic' is invalid): edu.ccil.ec.plug.actions.CheatSheetWorkbenchAction
+
+!ENTRY org.eclipse.ui.cheatsheets 2 1001 2011-01-24 10:00:08.878
+!MESSAGE Unknown element 'onCompletion' specified for element 'intro'.
+
+!ENTRY org.eclipse.ui.cheatsheets 2 1001 2011-01-24 10:00:09.152
+!MESSAGE Unknown element 'onCompletion' specified for element 'intro'.
